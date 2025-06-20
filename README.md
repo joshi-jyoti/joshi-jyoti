@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jyoti Joshi</h1>
 <h2 align="center">A passionate Web developer </h2>
 
-<img style="margin-bottom: 15px;" align="right" alt="Coding" width="250" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img style="margin-bottom: 18px;" align="right" alt="Coding" width="235" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 🔭 I’m currently working on **MERN**
 
