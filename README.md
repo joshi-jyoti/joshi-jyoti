@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jyoti Joshi</h1>
 <h2 align="center">A passionate Web developer </h2>
 
-<img  align="right" alt="Coding" width="265" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img  align="right" alt="Coding" width="290" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 🔭 I’m currently working on **MERN**
 
@@ -13,6 +13,8 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@jyotijoshi242003)
 
 - 📫 How to reach me **jyotijoshi242003@gmail.com**
+  
+- ⚡Fun fact: I love solving coding problems and enjoy playing chess in my free time.
 
 
 ## 🌐 Socials:
