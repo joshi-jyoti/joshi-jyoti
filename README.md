@@ -2,15 +2,19 @@
 <h1 align="center">Hi 👋, I'm Jyoti Joshi</h1>
 <h2 align="center">A passionate Web developer </h2>
 
-<img  align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img  align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jyoti-joshi-portfolio.vercel.app/)
+- 🚀 Passionate about building scalable and user-friendly web applications
+
+- 📚 Always exploring new technologies and best practices
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@jyotijoshi242003)
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://jyoti-joshi-portfolio.vercel.app/)
 
 - 📫 How to reach me **jyotijoshi242003@gmail.com**
   
