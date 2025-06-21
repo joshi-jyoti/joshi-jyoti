@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **jyotijoshi242003@gmail.com**
   
-- ⚡Fun fact: I love solving coding problems and enjoy playing chess .
+- ⚡ Hobbies: I love solving coding problems and enjoy playing chess .
 
 
 ## 🌐 Socials:
